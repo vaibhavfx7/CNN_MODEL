@@ -1,0 +1,9 @@
+HERE I WILL TELL YOU HOW I ARRANGED THE DATASET WHICH CONTAINS THE IMAGES OF DOGS AND CATS
+
+# Create two folder named "train" and "test2" respectively
+              #Each folder contains Two folder which helps the model to recognize the different types of binary images as the the class mode is binary
+# I put 5000 cats images and 6000 dog images in Catx and Dagx folder in train folder respectively.
+# I put 1000 cats images and 2000 dog images in Catx and Dagx folder in test2 folder respectively.
+
+
+Link to download dataset:-https://www.kaggle.com/c/dogs-vs-cats
